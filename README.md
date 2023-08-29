@@ -1,4 +1,4 @@
-<div style='font-size: 1.25em; line-height: 1.25'>:wave:&emsp;Hello there</div>
+### :wave:&emsp;Hello there
 
 - :desktop_computer:&emsp;I’m currently working on ... [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/user/14697448/)
 - :brain:&emsp;I’m currently learning ... InfiniBand
