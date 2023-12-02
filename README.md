@@ -1,7 +1,7 @@
 ### :wave:&emsp;Hello there
 
-- :desktop_computer:&emsp;I’m currently working on ... [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/user/14697448/)
-- :brain:&emsp;I’m currently learning ... InfiniBand
+- :desktop_computer:&emsp;I’m currently working on ... [xml-cv](https://github.com/bberberov/xml-cv), homelab
+- :book:&emsp;I’m currently learning ...
 - :handshake:&emsp;I’m looking to collaborate on ... Custom browser builds
 - :confounded:&emsp;I’m looking for help with ... WebDev
 
