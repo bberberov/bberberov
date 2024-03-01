@@ -8,6 +8,7 @@
 ### :octocat:&emsp;What's here
 
 - Dotfiles: [userconfig], [userexec], and [userweb]
+- [flashbench] - for analyzing flash block devices
 - Web stuff: [cydonia], [sunglasses]
 - CV automation: [xml-cv]
 - Forks for preservation: from [OSVR](https://github.com/OSVR), [XMind]
@@ -17,13 +18,14 @@
 
 - [GitLab](https://gitlab.com/bberberov):
 	- Some [Firefox Add-ons]
-	- [Linux from Scratch](https://linuxfromscratch.org/) soft-forks: [LFS] and [BLFS]
-	- [Autoinstalls]
+	- [DocBook](https://docbook.org/) book soft-forks: [LFS], [BLFS], [CLFS] and [CLFS Embedded]
+	- [Autoinstalls] for RHEL and Ubuntu
 
 
 
 [XMind]:      https://github.com/bberberov/xmind
 [cydonia]:    https://github.com/bberberov/cydonia
+[flashbench]: https://github.com/bberberov/flashbench
 [sunglasses]: https://github.com/bberberov/sunglasses
 [userconfig]: https://github.com/bberberov/userconfig
 [userexec]:   https://github.com/bberberov/userexec
@@ -31,9 +33,11 @@
 [xml-cv]:     https://github.com/bberberov/xml-cv
 
 [Autoinstalls]:    https://gitlab.com/clu-os/3rd/autoinstalls
-[BLFS]:            https://gitlab.com/clu-os/docs/blfs
+[BLFS]:            https://gitlab.com/clu-os/docs/blfs "Beyond Linux From Scratch"
+[CLFS Embedded]:   https://gitlab.com/clu-os/docs/cross-lfs-embedded "Cross Linux From Scratch- Embedded"
+[CLFS]:            https://gitlab.com/clu-os/docs/cross-lfs "Cross Linux From Scratch"
 [Firefox Add-ons]: https://gitlab.com/clu-os/firefox-add-ons
-[LFS]:             https://gitlab.com/clu-os/docs/lfs
+[LFS]:             https://gitlab.com/clu-os/docs/lfs "Linux From Scratch"
 
 <!--
 - 💬 Ask me about ...
