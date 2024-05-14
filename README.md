@@ -1,7 +1,7 @@
 ### :wave:&emsp;Hello there
 
 - :desktop_computer:&emsp;I’m currently working on ... [xml-cv], homelab
-- :book:&emsp;I’m currently learning ...
+- :book:&emsp;I’m currently learning ... [Open Build Service](https://openbuildservice.org/)
 - :handshake:&emsp;I’m looking to collaborate on ... Custom browser builds
 - :confounded:&emsp;I’m looking for help with ... WebDev
 
@@ -20,6 +20,7 @@
 	- Some [Firefox Add-ons]
 	- [DocBook](https://docbook.org/) book soft-forks: [LFS], [BLFS], [CLFS] and [CLFS Embedded]
 	- [Autoinstalls] for RHEL and Ubuntu
+- [openSUSE Build Service](https://build.opensuse.org/project/show/home:bberberov)
 
 
 
