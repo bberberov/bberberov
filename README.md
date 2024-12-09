@@ -1,62 +1,85 @@
-<details open><summary>
+<table cellpadding=0><tr>
+<td valign=top>
 
 ### :wave:&emsp;Hello there
 
-</summary>
+- :building_construction:&emsp;Currently working on:&emsp;:desktop_computer: homelab, :fox_face: [Vulpes], :building_construction: [Autoinstalls]
+- :book:&emsp;Currently learning:&emsp;[OpenStack](https://www.openstack.org/ '"The Most Widely Deployed Open Source Cloud Software in the World"')
+- :handshake:&emsp;Looking to collaborate on:&emsp;:fox_face: [Vulpes], :rocket: [Scorched3D], [flashbench]
+- :thinking:&emsp;Looking for help with:&emsp;WebDev
+- :mailbox:&emsp;How to reach me:&emsp;:email: Emails, :speech_balloon: LinkedIn
 
-- :desktop_computer:&emsp;I’m currently working on ... [xml-cv], homelab
-- :book:&emsp;I’m currently learning ... [Open Build Service](https://openbuildservice.org/)
-- :handshake:&emsp;I’m looking to collaborate on ... Custom browser builds
-- :confounded:&emsp;I’m looking for help with ... WebDev
+> [!TIP]
+> Hover over links to see more information
 
-</details>
-<details><summary>
+</td>
+<td valign=top>
 
 ### :octocat:&emsp;What's here
 
-</summary>
+- :page_with_curl:&emsp;Dotfiles:&emsp;[userconfig], [userexec], and [userweb]
+- :fork_and_knife:&emsp;Forks:&emsp; :rocket: [Scorched3D], [flashbench]
+- :globe_with_meridians:&emsp;Web stuff:&emsp;[cydonia], [sunglasses]
+- :scroll:&emsp;CV automation:&emsp;[xml-cv]
+- :fork_and_knife:&emsp;Forks for preservation:&emsp;from :goggles: [OSVR], [XMind]
+- [...](https://github.com/bberberov?tab=repositories)
 
-- Dotfiles: [userconfig], [userexec], and [userweb]
-- [flashbench] - for analyzing flash block devices
-- Web stuff: [cydonia], [sunglasses]
-- CV automation: [xml-cv]
-- Forks for preservation: from [OSVR](https://github.com/OSVR), [XMind]
-- Other things
-
-</details>
-<details><summary>
+</td>
+</tr></table>
 
 ### :globe_with_meridians:&emsp;What's elsewhere
 
-</summary>
+<table cellpadding=0><tr>
+<td valign=top>
 
-- [GitLab](https://gitlab.com/bberberov):
-	- Some [Firefox Add-ons]
-	- [DocBook](https://docbook.org/) book soft-forks: [LFS], [BLFS], [CLFS] and [CLFS Embedded]
-	- [Autoinstalls] for RHEL and Ubuntu
-- [openSUSE Build Service](https://build.opensuse.org/project/show/home:bberberov)
+### :fox_face:&emsp;[GitLab]
 
-</details>
+- :fox_face:&emsp;[Firefox Add-ons], which you can also get from [AMO]
+- :book:&emsp;[DocBook](https://docbook.org/) ebook soft-forks:&emsp;[LFS], [BLFS], [CLFS] and [CLFS Embedded]
+- :building_construction:&emsp;[Autoinstalls]&emsp;for openSUSE, RHEL and Ubuntu
+- :fox_face:&emsp;[Vulpes] &ndash; Experimental web browser build, based on Firefox
+- :building_construction:&emsp;[multibuild] &ndash; tools for building on multiple distributions
 
-[XMind]:      https://github.com/bberberov/xmind
-[cydonia]:    https://github.com/bberberov/cydonia
-[flashbench]: https://github.com/bberberov/flashbench
-[sunglasses]: https://github.com/bberberov/sunglasses
-[userconfig]: https://github.com/bberberov/userconfig
-[userexec]:   https://github.com/bberberov/userexec
-[userweb]:    https://github.com/bberberov/userweb
-[xml-cv]:     https://github.com/bberberov/xml-cv
+</td>
+<td valign=top>
 
-[Autoinstalls]:    https://gitlab.com/clu-os/3rd/autoinstalls
-[BLFS]:            https://gitlab.com/clu-os/docs/blfs "Beyond Linux From Scratch"
-[CLFS Embedded]:   https://gitlab.com/clu-os/docs/cross-lfs-embedded "Cross Linux From Scratch- Embedded"
-[CLFS]:            https://gitlab.com/clu-os/docs/cross-lfs "Cross Linux From Scratch"
+### :factory:&emsp;[openSUSE Build Service]
+
+- :package:&emsp;Builds for:&emsp;`LibreWolf`, `apkeep`, `gitahead`, `gittyup`, `hpn-ssh`, `miraclecast`, `tcc`, `uad-ng`, `vlang`, ...
+- :package:&emsp;Targeting:&emsp;openSUSE, Fedora, Mageia, RHEL/EPEL, eventually Arch and Debian/Ubuntu
+
+</td>
+</tr></table>
+
+[AMO]:                    https://addons.mozilla.org/en-US/firefox/user/14697448/ 'Add-ons Mozilla.Org'
+[openSUSE Build Service]: https://build.opensuse.org/project/show/home:bberberov  'My profile on openSUSE Build Service'
+
+[GitHub]:     https://github.com/bberberov 'My profile on GitHub'
+[OSVR]:       https://github.com/OSVR 'Open Source Virtual Reality'
+
+[Scorched3D]: https://github.com/bberberov/scorched3d 'Scorched3D game, based on Scorched Earth'
+[XMind]:      https://github.com/bberberov/xmind 'Mind-mapping tool'
+[cydonia]:    https://github.com/bberberov/cydonia '"Utility" stylesheet'
+[flashbench]: https://github.com/bberberov/flashbench 'Tool for analyzing flash block devices'
+[sunglasses]: https://github.com/bberberov/sunglasses 'A theme for Pelican static-site generator'
+[userconfig]: https://github.com/bberberov/userconfig 'Collection of configuration files and fragments'
+[userexec]:   https://github.com/bberberov/userexec 'Collection of scripts and tools'
+[userweb]:    https://github.com/bberberov/userweb 'Collection of userstyles and userscripts for use in browser extensions'
+[xml-cv]:     https://github.com/bberberov/xml-cv 'CV and resume generating tools'
+
+[GitLab]:          https://gitlab.com/bberberov 'My profile on GitLab'
+
+[Autoinstalls]:    https://gitlab.com/clu-os/3rd/autoinstalls 'Automatic installation configuration files for various distributions'
+[BLFS]:            https://gitlab.com/clu-os/docs/blfs 'Beyond Linux From Scratch book'
+[CLFS Embedded]:   https://gitlab.com/clu-os/docs/cross-lfs-embedded 'Cross Linux From Scratch - Embedded book'
+[CLFS]:            https://gitlab.com/clu-os/docs/cross-lfs 'Cross Linux From Scratch book'
 [Firefox Add-ons]: https://gitlab.com/clu-os/firefox-add-ons
-[LFS]:             https://gitlab.com/clu-os/docs/lfs "Linux From Scratch"
+[LFS]:             https://gitlab.com/clu-os/docs/lfs 'Linux From Scratch book'
+[Vulpes]:          https://gitlab.com/clu-os/software/vulpes 'Experimental web browser build, based on Firefox'
+[multibuild]:      https://gitlab.com/clu-os/3rd/multibuild 'Tools for simplifying software builds for various distributions'
 
 <!--
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
