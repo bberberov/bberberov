@@ -1,27 +1,27 @@
 <table cellpadding=0><tr>
-<td valign=top>
+<td valign=top width=50%>
 
 ### :wave:&emsp;Hello there
 
-- :building_construction:&emsp;Currently working on:&emsp;:desktop_computer: homelab, :fox_face: [Vulpes], :building_construction: [Autoinstalls]
-- :book:&emsp;Currently learning:&emsp;[OpenStack](https://www.openstack.org/ '"The Most Widely Deployed Open Source Cloud Software in the World"')
-- :handshake:&emsp;Looking to collaborate on:&emsp;:fox_face: [Vulpes], :rocket: [Scorched3D], [flashbench]
-- :thinking:&emsp;Looking for help with:&emsp;WebDev
-- :mailbox:&emsp;How to reach me:&emsp;:email: Emails, :speech_balloon: LinkedIn
+- :building_construction:&emsp;Currently working on:&emsp;:desktop_computer:&nbsp;homelab, :fox_face:&nbsp;[Vulpes], :building_construction:&nbsp;[Autoinstalls]
+- :book:&emsp;Currently learning:&emsp;:building_construction:&nbsp;[OpenStack](https://www.openstack.org/ '"The Most Widely Deployed Open Source Cloud Software in the World"')
+- :handshake:&emsp;Looking to collaborate on:&emsp;:fox_face:&nbsp;[Vulpes], :rocket:&nbsp;[Scorched3D], [flashbench]
+- :thinking:&emsp;Looking for help with:&emsp;:globe_with_meridians:&nbsp;WebDev
+- :mailbox:&emsp;How to reach me:&emsp;:email:&nbsp;Emails, :speech_balloon:&nbsp;LinkedIn
 
 > [!TIP]
 > Hover over links to see more information
 
 </td>
-<td valign=top>
+<td valign=top width=50%>
 
 ### :octocat:&emsp;What's here
 
 - :page_with_curl:&emsp;Dotfiles:&emsp;[userconfig], [userexec], and [userweb]
-- :fork_and_knife:&emsp;Forks:&emsp; :rocket: [Scorched3D], [flashbench]
+- :fork_and_knife:&emsp;Forks:&emsp; :rocket:&nbsp;[Scorched3D], [flashbench]
 - :globe_with_meridians:&emsp;Web stuff:&emsp;[cydonia], [sunglasses]
 - :scroll:&emsp;CV automation:&emsp;[xml-cv]
-- :fork_and_knife:&emsp;Forks for preservation:&emsp;from :goggles: [OSVR], [XMind]
+- :fork_and_knife:&emsp;Forks for preservation:&emsp;from :goggles:&nbsp;[OSVR], [XMind]
 - [...](https://github.com/bberberov?tab=repositories)
 
 </td>
@@ -30,23 +30,24 @@
 ### :globe_with_meridians:&emsp;What's elsewhere
 
 <table cellpadding=0><tr>
-<td valign=top>
+<td valign=top width=50%>
 
 ### :fox_face:&emsp;[GitLab]
 
-- :fox_face:&emsp;[Firefox Add-ons], which you can also get from [AMO]
-- :book:&emsp;[DocBook](https://docbook.org/) ebook soft-forks:&emsp;[LFS], [BLFS], [CLFS] and [CLFS Embedded]
-- :building_construction:&emsp;[Autoinstalls]&emsp;for openSUSE, RHEL and Ubuntu
-- :fox_face:&emsp;[Vulpes] &ndash; Experimental web browser build, based on Firefox
+- :fox_face:&emsp;[Firefox Add-ons], get them from [AMO]
+- :book:&emsp;Ebook soft-forks:&emsp;[LFS], [BLFS], [CLFS] and [CLFS Embedded]
+- :building_construction:&emsp;[Autoinstalls] &ndash; for openSUSE, RHEL and Ubuntu
+- :fox_face:&emsp;[Vulpes] &ndash; Experimental Firefox build
 - :building_construction:&emsp;[multibuild] &ndash; tools for building on multiple distributions
 
 </td>
-<td valign=top>
+<td valign=top width=50%>
 
 ### :factory:&emsp;[openSUSE Build Service]
 
 - :package:&emsp;Builds for:&emsp;`LibreWolf`, `apkeep`, `gitahead`, `gittyup`, `hpn-ssh`, `miraclecast`, `tcc`, `uad-ng`, `vlang`, ...
 - :package:&emsp;Targeting:&emsp;openSUSE, Fedora, Mageia, RHEL/EPEL, eventually Arch and Debian/Ubuntu
+- :chart_with_upwards_trend:&emsp;[Multi-distro development repository status](https://build.opensuse.org/project/monitor/home:bberberov:develop:Multi)
 
 </td>
 </tr></table>
