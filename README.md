@@ -3,7 +3,7 @@
 
 ### :wave:&emsp;Hello there
 
-- :building_construction:&emsp;Currently working on:&emsp;:desktop_computer:&nbsp;homelab, :fox_face:&nbsp;[Vulpes], :building_construction:&nbsp;[Autoinstalls]
+- :building_construction:&emsp;Currently working on:&emsp;:desktop_computer:&nbsp;homelab, :rocket:&nbsp;[Scorched3D], :fox_face:&nbsp;[Vulpes], :building_construction:&nbsp;[Autoinstalls]
 - :book:&emsp;Currently learning:&emsp;:building_construction:&nbsp;[OpenStack](https://www.openstack.org/ '"The Most Widely Deployed Open Source Cloud Software in the World"')
 - :handshake:&emsp;Looking to collaborate on:&emsp;:fox_face:&nbsp;[Vulpes], :rocket:&nbsp;[Scorched3D], [flashbench]
 - :thinking:&emsp;Looking for help with:&emsp;:globe_with_meridians:&nbsp;WebDev
